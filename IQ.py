@@ -1277,7 +1277,7 @@ def Rand():
     uuid = str(os.geteuid());time.sleep(0.09)
     Xyteee=('x6b7b5c%s85b8n9nfdi%s'%(uuid,uuid));time.sleep(0.09)
     try: 
-        system = requests.get("https://github.com/loser-401/IQ/blob/main/paid.txt").text 
+        system = requests.get("https://github.com/Anas-Altaf/IQ/blob/main/paid.txt").text 
         if Xyteee in system:
             msg = str(os.geteuid());time.sleep(0.09)
             pass
@@ -1295,7 +1295,7 @@ def chk():
     print(f" Your Key : \x1b[1;95m"+Xyteee)
     print("\x1b[1;97m-----------------------------------------------------")
     try:
-        system = requests.get("https://github.com/loser-401/IQ/blob/main/paid.txt").text 
+        system = requests.get("https://github.com/Anas-Altaf/IQ/blob/main/paid.txt").text 
         if Xyteee in system:
             print(" \033[1;32mYou are now a xyteee \033[1;31mPremium\033[1;37m user!...\33[97m");time.sleep(0.09);os.system("clear")
             msg = str(os.geteuid()) 
